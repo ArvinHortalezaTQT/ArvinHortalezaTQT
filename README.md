@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ArvinHortalezaTQT/ArvinHortalezaTQT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ICT CCT student interested in networking, Linux, & Cybersecurity.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on setting up & managing servers
+- 🌱 I’m currently learning how to use cybersecurity tools and what applications to use for home servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I like to use on my Microsoft Surface w/ Arch
+
+- Obsidian
+- Libreoffice
+- Nmap
+- Wireshark
+
+## Fun Facts
+
+- I like to cook, build things, & plant
+- I try to be self-sufficient as much as I can
+- My favorite kind of plant is the mimosa pudica
